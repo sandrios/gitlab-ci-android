@@ -4,7 +4,7 @@
 # https://hub.docker.com/r/sandrios/gitlab-ci-android/
 #
 
-FROM ubuntu:17.04
+FROM ubuntu:18.04
 MAINTAINER Arpit Gandhi <github@sandrios.com>
 
 ENV VERSION_SDK_TOOLS "4333796"
